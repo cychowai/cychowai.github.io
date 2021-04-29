@@ -1,1 +1,1 @@
-# http://cychowai.github.io/shamir-standalone.html
+https://cychowai.github.io/shamir-standalone.html
